@@ -352,6 +352,7 @@
             <key type="filename">tile_0196.png</key>
             <key type="filename">tile_0197.png</key>
             <key type="filename">tile_0198.png</key>
+            <key type="filename">tile_0198_dirty.png</key>
             <key type="filename">tile_0199.png</key>
             <key type="filename">tile_0200.png</key>
             <key type="filename">tile_0201.png</key>
@@ -1064,6 +1065,7 @@
             <filename>trash_10.png</filename>
             <filename>trash_11.png</filename>
             <filename>trash_12.png</filename>
+            <filename>tile_0198_dirty.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
