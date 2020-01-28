@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b86b0316f2ad62b76dbac168504de23c",
+    "revision": "0c24513b87eb4101eaab23634971dcf9",
     "url": "/boeren-bridge/index.html"
   },
   {
-    "revision": "ad936321756d79755ae0",
+    "revision": "d0ae304971c5de5e3aed",
     "url": "/boeren-bridge/static/css/main.38a61569.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boeren-bridge/static/js/2.434d2cce.chunk.js.LICENSE"
   },
   {
-    "revision": "ad936321756d79755ae0",
-    "url": "/boeren-bridge/static/js/main.7c927995.chunk.js"
+    "revision": "d0ae304971c5de5e3aed",
+    "url": "/boeren-bridge/static/js/main.19113e6e.chunk.js"
   },
   {
     "revision": "04a2109fe6dcbb043040",
