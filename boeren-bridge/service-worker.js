@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/boeren-bridge/precache-manifest.d111c3bdaa093fc891ec75e0c39a650e.js"
+  "/boeren-bridge/precache-manifest.7656f03f800d1b7dbd15631cc8298945.js"
 );
 
 self.addEventListener('message', (event) => {

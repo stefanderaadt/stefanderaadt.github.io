@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/boeren-bridge/static/css/main.76d147f1.chunk.css",
-    "main.js": "/boeren-bridge/static/js/main.fd1a41ec.chunk.js",
-    "main.js.map": "/boeren-bridge/static/js/main.fd1a41ec.chunk.js.map",
+    "main.js": "/boeren-bridge/static/js/main.f8919820.chunk.js",
+    "main.js.map": "/boeren-bridge/static/js/main.f8919820.chunk.js.map",
     "runtime-main.js": "/boeren-bridge/static/js/runtime-main.734e3110.js",
     "runtime-main.js.map": "/boeren-bridge/static/js/runtime-main.734e3110.js.map",
     "static/js/2.f46ee5d6.chunk.js": "/boeren-bridge/static/js/2.f46ee5d6.chunk.js",
     "static/js/2.f46ee5d6.chunk.js.map": "/boeren-bridge/static/js/2.f46ee5d6.chunk.js.map",
     "index.html": "/boeren-bridge/index.html",
-    "precache-manifest.d111c3bdaa093fc891ec75e0c39a650e.js": "/boeren-bridge/precache-manifest.d111c3bdaa093fc891ec75e0c39a650e.js",
+    "precache-manifest.7656f03f800d1b7dbd15631cc8298945.js": "/boeren-bridge/precache-manifest.7656f03f800d1b7dbd15631cc8298945.js",
     "service-worker.js": "/boeren-bridge/service-worker.js",
     "static/css/main.76d147f1.chunk.css.map": "/boeren-bridge/static/css/main.76d147f1.chunk.css.map",
     "static/js/2.f46ee5d6.chunk.js.LICENSE": "/boeren-bridge/static/js/2.f46ee5d6.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.734e3110.js",
     "static/js/2.f46ee5d6.chunk.js",
     "static/css/main.76d147f1.chunk.css",
-    "static/js/main.fd1a41ec.chunk.js"
+    "static/js/main.f8919820.chunk.js"
   ]
 }
